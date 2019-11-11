@@ -15,3 +15,4 @@ Below, is a table of the top ten states that have federal funding per student.
 ![DS5500_Homework3](statestudent.PNG)
 
 
+## Problem 2
