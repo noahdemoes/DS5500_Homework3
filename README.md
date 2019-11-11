@@ -36,6 +36,6 @@ The function parses each string. Based on the length and character values it det
 
 I decided to visualize the math performance of the entire districts. The figure below demonstrates the results.
 
-![DS5500_Homework3](realdebt.PNG)
+![DS5500_Homework3](mathperform.png)
 
 ## Problem 4
