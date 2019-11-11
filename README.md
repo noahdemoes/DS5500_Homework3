@@ -16,3 +16,5 @@ Below, is a table of the top ten states that have federal funding per student.
 
 
 ## Problem 2
+
+![DS5500_Homework3](realdebt.PNG)
