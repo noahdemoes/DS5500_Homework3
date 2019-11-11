@@ -39,3 +39,12 @@ I decided to visualize the math performance of the entire districts. The figure 
 ![DS5500_Homework3](mathperform.png)
 
 ## Problem 4
+
+
+![DS5500_Homework3](table4.PNG)
+
+## Problem 5
+
+In order to reduce the Federal Budget by 15% we must make cuts to Federally funded programs. The following criteria are the rules by which funding was cut. 1.) Determine all districts that had a positive difference between their funding and their expenditure. 2.) Reduce district federal funding by the difference or by the federal funding whichever was smaller. 3.) Determine whether the reduction was greater than needed. If so, iteratively reduce the reduction among all schools that had funding taken until the reduction equalled 15% of last year's budget.
+
+This process was chose because it is clear, generally objective, and does not impact the learning of the schools that the money is being taken from.
